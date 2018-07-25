@@ -1,0 +1,16 @@
+
+article {
+    display: flex;
+    justify-content: center;
+}
+.generalProfile {
+    background-color: aqua;
+}
+
+.peopleLikeMe {
+    background-color: beige;
+}
+
+.communication {
+    
+}
